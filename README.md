@@ -3,9 +3,6 @@
 #ioncube_loader_installation
 
 a=8.2
-b=7.3
-c=7.4
-e=8.1
 
 cd /usr/local/
 
